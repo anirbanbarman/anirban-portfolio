@@ -20,7 +20,7 @@ const Services = () => {
           <div className="col-md-4">
             <div className="service-box">
               <div className="service-ico">
-                <span className="ico-circle"><i className="bi bi-briefcase"></i></span>
+              <img src="img/webdesign.svg" alt="webdesign" width="200px"/>
               </div>
               <div className="service-content">
                 <h2 className="s-title">Web Design</h2>
@@ -35,7 +35,7 @@ const Services = () => {
           <div className="col-md-4">
             <div className="service-box">
               <div className="service-ico">
-                <span className="ico-circle"><i className="bi bi-card-checklist"></i></span>
+              <img src="img/webdevelopment.svg" alt="webdevelopment" width="200px"/>
               </div>
               <div className="service-content">
                 <h2 className="s-title">Web Development</h2>
@@ -50,7 +50,8 @@ const Services = () => {
           <div className="col-md-4">
             <div className="service-box">
               <div className="service-ico">
-                <span className="ico-circle"><i className="bi bi-bar-chart"></i></span>
+                {/* <span className="ico-circle"><i className="bi bi-bar-chart"></i></span> */}
+                <img src="img/photography.svg" width="200px"/>
               </div>
               <div className="service-content">
                 <h2 className="s-title">Photography</h2>
@@ -65,7 +66,7 @@ const Services = () => {
           <div className="col-md-4">
             <div className="service-box">
               <div className="service-ico">
-                <span className="ico-circle"><i className="bi bi-binoculars"></i></span>
+              <img src="img/responsive.svg" alt="graphic" width="170px"/>
               </div>
               <div className="service-content">
                 <h2 className="s-title">Responsive Design</h2>
@@ -80,7 +81,8 @@ const Services = () => {
           <div className="col-md-4">
             <div className="service-box">
               <div className="service-ico">
-                <span className="ico-circle"><i className="bi bi-brightness-high"></i></span>
+              <img src="img/graphic.svg" alt="graphic" width="140px"/>
+          
               </div>
               <div className="service-content">
                 <h2 className="s-title">Graphic Design</h2>
@@ -95,7 +97,7 @@ const Services = () => {
           <div className="col-md-4">
             <div className="service-box">
               <div className="service-ico">
-                <span className="ico-circle"><i className="bi bi-calendar4-week"></i></span>
+              <img src="img/marketing.svg" alt="graphic" width="170px"/>
               </div>
               <div className="service-content">
                 <h2 className="s-title">Marketing Services</h2>

@@ -5,7 +5,7 @@ const AboutMe = () => {
       <div className="container">
         <div className="row">
           <div className="col-sm-12">
-            <div className="box-shadow-full">
+            <div className="box-shadow-full" style={{boxShadow: "8px 11px 18px #b3b3b3, -30px -30px 43px #f5f5f5a6"}}>
               <div className="row">
                 <div className="col-md-6">
                   <div className="row">
@@ -16,14 +16,11 @@ const AboutMe = () => {
                     </div>
                     <div className="col-sm-6 col-md-7">
                       <div className="about-info">
-                        <p><span className="title-s">Name: </span> <span>Morgan Freeman</span></p>
-                        <p><span className="title-s">Profile: </span> <span>full stack developer</span></p>
-                        <p><span className="title-s">Email: </span> <span>contact@example.com</span></p>
+                        <p><span className="title-s">Name: </span> <span>Anirban Barman</span></p>
+                        <p><span className="title-s">Profile: </span> <span>Full stack Developer</span></p>
+                        <p><span className="title-s">Email: </span> <span>anirbanee247@gmail.com</span></p>
                         <p><span className="title-s">Phone: </span> <span>8906349763</span></p>
-                        <p><span className="title-s">Name: </span> <span>Morgan Freeman</span></p>
-                        <p><span className="title-s">Profile: </span> <span>full stack developer</span></p>
-                        <p><span className="title-s">Email: </span> <span>contact@example.com</span></p>
-                        <p><span className="title-s">Phone: </span> <span>8906349763</span></p>
+                        
                       </div>
                     </div>
                   </div>
