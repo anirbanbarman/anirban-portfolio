@@ -1,16 +1,17 @@
 import React from 'react';
 const Portfolio = () => {
     return (<>
-        <section id="work" className="portfolio-mf sect-pt4 route">
+        <section id="my-project" className="portfolio-mf sect-pt4 route">
             <div className="container">
                 <div className="row">
                     <div className="col-sm-12">
                         <div className="title-box text-center">
                             <h3 className="title-a">
-                                Portfolio
+                               My personal Projects
                             </h3>
                             <p className="subtitle-a">
-                                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                                I love to develop Web Aplications and Mobile Applications.currently I am developing 6 projects in react native,next.js 
+                                and react.js.once done will update in the below section.
                             </p>
                             <div className="line-mf"></div>
                         </div>
@@ -19,22 +20,22 @@ const Portfolio = () => {
                 <div className="row">
                     <div className="col-md-4">
                         <div className="work-box">
-                            <a href="img/work-1.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox">
+                            <a href="img/progress.png" data-gallery="portfolioGallery" className="portfolio-lightbox">
                                 <div className="work-img">
-                                    <img src="img/work-1.jpg" alt="" className="img-fluid" />
+                                    <img src="img/progress.png" alt="" className="img-fluid" />
                                 </div>
                             </a>
                             <div className="work-content">
                                 <div className="row">
                                     <div className="col-sm-8">
-                                        <h2 className="w-title">Lorem impsum dolor</h2>
+                                        <h2 className="w-title">Real time Chat Application</h2>
                                         <div className="w-more">
-                                            <span className="w-ctegory">Web Design</span> / <span className="w-date">18 Sep. 2018</span>
+                                            <span className="w-ctegory">Web & mobile</span> / <span className="w-date">Coming soon...</span>
                                         </div>
                                     </div>
                                     <div className="col-sm-4">
                                         <div className="w-like">
-                                            <a href="portfolio-details.html"> <span className="bi bi-plus-circle"></span></a>
+                                            <a href=""> <span className="bi bi-plus-circle"></span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -43,22 +44,22 @@ const Portfolio = () => {
                     </div>
                     <div className="col-md-4">
                         <div className="work-box">
-                            <a href="img/work-2.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox">
+                            <a href="img/progress.png" data-gallery="portfolioGallery" className="portfolio-lightbox">
                                 <div className="work-img">
-                                    <img src="img/work-2.jpg" alt="" className="img-fluid" />
+                                    <img src="img/progress.png" alt="" className="img-fluid" />
                                 </div>
                             </a>
                             <div className="work-content">
                                 <div className="row">
                                     <div className="col-sm-8">
-                                        <h2 className="w-title">Loreda Cuno Nere</h2>
+                                        <h2 className="w-title">Instagram clone</h2>
                                         <div className="w-more">
-                                            <span className="w-ctegory">Web Design</span> / <span className="w-date">18 Sep. 2018</span>
+                                            <span className="w-ctegory">Web & mobile</span> / <span className="w-date">Coming soon...</span>
                                         </div>
                                     </div>
                                     <div className="col-sm-4">
                                         <div className="w-like">
-                                            <a href="portfolio-details.html"> <span className="bi bi-plus-circle"></span></a>
+                                            <a href=""> <span className="bi bi-plus-circle"></span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -67,22 +68,22 @@ const Portfolio = () => {
                     </div>
                     <div className="col-md-4">
                         <div className="work-box">
-                            <a href="img/work-3.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox">
+                            <a href="img/progress.png" data-gallery="portfolioGallery" className="portfolio-lightbox">
                                 <div className="work-img">
-                                    <img src="img/work-3.jpg" alt="" className="img-fluid" />
+                                    <img src="img/progress.png" alt="" className="img-fluid" />
                                 </div>
                             </a>
                             <div className="work-content">
                                 <div className="row">
                                     <div className="col-sm-8">
-                                        <h2 className="w-title">Mavrito Lana Dere</h2>
+                                        <h2 className="w-title">Linkedin clone</h2>
                                         <div className="w-more">
-                                            <span className="w-ctegory">Web Design</span> / <span className="w-date">18 Sep. 2018</span>
+                                            <span className="w-ctegory">Web</span> / <span className="w-date">Coming soon...</span>
                                         </div>
                                     </div>
                                     <div className="col-sm-4">
                                         <div className="w-like">
-                                            <a href="portfolio-details.html"> <span className="bi bi-plus-circle"></span></a>
+                                            <a href=""> <span className="bi bi-plus-circle"></span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -91,22 +92,22 @@ const Portfolio = () => {
                     </div>
                     <div className="col-md-4">
                         <div className="work-box">
-                            <a href="img/work-4.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox">
+                            <a href="img/progress.png" data-gallery="portfolioGallery" className="portfolio-lightbox">
                                 <div className="work-img">
-                                    <img src="img/work-4.jpg" alt="" className="img-fluid" />
+                                    <img src="img/progress.png" alt="" className="img-fluid" />
                                 </div>
                             </a>
                             <div className="work-content">
                                 <div className="row">
                                     <div className="col-sm-8">
-                                        <h2 className="w-title">Bindo Laro Cado</h2>
+                                        <h2 className="w-title">Hotel Managment </h2>
                                         <div className="w-more">
-                                            <span className="w-ctegory">Web Design</span> / <span className="w-date">18 Sep. 2018</span>
+                                            <span className="w-ctegory">mobile</span> / <span className="w-date">Coming soon...</span>
                                         </div>
                                     </div>
                                     <div className="col-sm-4">
                                         <div className="w-like">
-                                            <a href="portfolio-details.html"> <span className="bi bi-plus-circle"></span></a>
+                                            <a href=""> <span className="bi bi-plus-circle"></span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -115,22 +116,22 @@ const Portfolio = () => {
                     </div>
                     <div className="col-md-4">
                         <div className="work-box">
-                            <a href="img/work-5.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox">
+                            <a href="img/progress.png" data-gallery="portfolioGallery" className="portfolio-lightbox">
                                 <div className="work-img">
-                                    <img src="img/work-5.jpg" alt="" className="img-fluid" />
+                                    <img src="img/progress.png" alt="" className="img-fluid" />
                                 </div>
                             </a>
                             <div className="work-content">
                                 <div className="row">
                                     <div className="col-sm-8">
-                                        <h2 className="w-title">Studio Lena Mado</h2>
+                                        <h2 className="w-title">Uber clone</h2>
                                         <div className="w-more">
-                                            <span className="w-ctegory">Web Design</span> / <span className="w-date">18 Sep. 2018</span>
+                                            <span className="w-ctegory">mobile</span> / <span className="w-date">Coming soon...</span>
                                         </div>
                                     </div>
                                     <div className="col-sm-4">
                                         <div className="w-like">
-                                            <a href="portfolio-details.html"> <span className="bi bi-plus-circle"></span></a>
+                                            <a href="/"> <span className="bi bi-plus-circle"></span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -139,22 +140,22 @@ const Portfolio = () => {
                     </div>
                     <div className="col-md-4">
                         <div className="work-box">
-                            <a href="img/work-6.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox">
+                            <a href="img/progress.png" data-gallery="portfolioGallery" className="portfolio-lightbox">
                                 <div className="work-img">
-                                    <img src="img/work-6.jpg" alt="" className="img-fluid" />
+                                    <img src="img/progress.png" alt="" className="img-fluid" />
                                 </div>
                             </a>
                             <div className="work-content">
                                 <div className="row">
                                     <div className="col-sm-8">
-                                        <h2 className="w-title">Studio Big Bang</h2>
+                                        <h2 className="w-title"> Project dashboard</h2>
                                         <div className="w-more">
-                                            <span className="w-ctegory">Web Design</span> / <span className="w-date">18 Sep. 2017</span>
+                                            <span className="w-ctegory">mobile</span> / <span className="w-date">Coming soon...</span>
                                         </div>
                                     </div>
                                     <div className="col-sm-4">
                                         <div className="w-like">
-                                            <a href="portfolio-details.html"> <span className="bi bi-plus-circle"></span></a>
+                                            <a href="/"> <span className="bi bi-plus-circle"></span></a>
                                         </div>
                                     </div>
                                 </div>

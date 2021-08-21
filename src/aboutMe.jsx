@@ -20,27 +20,43 @@ const AboutMe = () => {
                         <p><span className="title-s">Profile: </span> <span>Full stack Developer</span></p>
                         <p><span className="title-s">Email: </span> <span>anirbanee247@gmail.com</span></p>
                         <p><span className="title-s">Phone: </span> <span>8906349763</span></p>
+                        <p><span className="title-s">Github: </span> <span ><a style={{color:"blue"}} href="https://github.com/anirbanbarman">https://github.com/anirbanbarman</a></span></p>
                         
                       </div>
                     </div>
                   </div>
                   <div className="skill-mf">
-                    <p className="title-s">Skill</p>
-                    <span>HTML</span> <span className="pull-right">85%</span>
+                    <p className="title-s">SKILL</p>
+                    <span>JAVASCRIPT</span> <span className="pull-right">75%</span>
                     <div className="progress">
-                      <div className="progress-bar" role="progressbar" style={{width:"85%"}} aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                      <div className="progress-bar" role="progressbar" style={{width:"75%",backgroundColor:"green"}} aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
-                    <span>CSS3</span> <span className="pull-right">75%</span>
+                    <span>CSS</span> <span className="pull-right">50%</span>
                     <div className="progress">
-                      <div className="progress-bar" role="progressbar" style={{width:"75%"}} aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                      <div className="progress-bar" role="progressbar" style={{backgroundColor:"orange", width:"50%"}} aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
-                    <span>PHP</span> <span className="pull-right">50%</span>
+                    <span>HTML</span> <span className="pull-right">50%</span>
                     <div className="progress">
-                      <div className="progress-bar" role="progressbar" style={{width:"50%"}} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                      <div className="progress-bar" role="progressbar" style={{backgroundColor:"orange",width:"50%"}} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
-                    <span>JAVASCRIPT</span> <span className="pull-right">90%</span>
+                    <span>ANGULAR 2+</span> <span className="pull-right">75%</span>
                     <div className="progress">
-                      <div className="progress-bar" role="progressbar" style={{width:"90%"}} aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                      <div className="progress-bar" role="progressbar" style={{width:"75%",backgroundColor:"green"}} aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div><span>REACT.JS</span> <span className="pull-right">70%</span>
+                    <div className="progress">
+                      <div className="progress-bar" role="progressbar" style={{backgroundColor:"green",width:"70%"}} aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div><span>NODE.JS</span> <span className="pull-right">65%</span>
+                    <div className="progress">
+                      <div className="progress-bar" role="progressbar" style={{width:"65%"}} aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div><span>REDUX</span> <span className="pull-right">60%</span>
+                    <div className="progress">
+                      <div className="progress-bar" role="progressbar" style={{width:"60%"}} aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div><span>NGRX/STORE</span> <span className="pull-right">70%</span>
+                    <div className="progress">
+                      <div className="progress-bar" role="progressbar" style={{backgroundColor:"green",width:"70%"}} aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div><span>TYPESCRIPT</span> <span className="pull-right">70%</span>
+                    <div className="progress">
+                      <div className="progress-bar" role="progressbar" style={{backgroundColor:"green",width:"70%"}} aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                   </div>
                 </div>
@@ -52,21 +68,24 @@ const AboutMe = () => {
                       </h5>
                     </div>
                     <p className="lead">
-                      Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur arcu erat, accumsan id
-                      imperdiet et, porttitor
-                      at sem. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Nulla
-                      porttitor accumsan tincidunt.
+                     Hey,<br/>
+                     you have read my resume right? if your answer is "no" then you are at the right place to know about me 😜😋(honest wala).
+                     My nick name is Titun.I pursued my bachelor degree in Electrical Engineering from Haldia Institute of Technology (BTech EE).
+                     In my college days I hate coding beacuse of loops😇 but now a days I am loving it 👨‍💻.
                     </p>
                     <p className="lead">
-                      Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus suscipit tortor eget felis
-                      porttitor volutpat. Vestibulum
-                      ac diam sit amet quam vehicula elementum sed sit amet dui. porttitor at sem.
+                    Technically I am an experienced IT professional having almost 5 years of experience but to be very honest my relevent experience
+                    in IT industry is 3 years 🙏🏻 ✌🏻.
                     </p>
                     <p className="lead">
-                      Nulla porttitor accumsan tincidunt. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
-                      Nulla porttitor accumsan
-                      tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+                      I am in love with <i><b>Javascript</b></i>. and I believe Javascript is the Mother 👩‍👦‍👦 of all js frameworks and libraries.
+
                     </p>
+                    <p className="lead">
+                     Currenly I am learning React navite ⚛️,Ionic framework,Vue and Next.js
+
+                    </p>
+
                   </div>
                 </div>
               </div>

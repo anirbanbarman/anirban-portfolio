@@ -3,14 +3,14 @@ const Footer = () => {
     return ( 
         <>
         <footer>
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-12">
-          <div class="copyright-box">
-            <p class="copyright">&copy; Copyright <strong>xxx</strong>. All Rights Reserved</p>
-            <div class="credits">
+    <div className="container">
+      <div className="row">
+        <div className="col-sm-12">
+          <div className="copyright-box">
+            {/* <p className="copyright">&copy; Copyright <strong>xxx</strong>. All Rights Reserved</p> */}
+            <div className="credits">
               
-              Designed by <a href="https://bootstrapmade.com/">.....</a>
+              {/* Designed by <a href="https://bootstrapmade.com/">.....</a> */}
             </div>
           </div>
         </div>

@@ -11,7 +11,7 @@ const Section = () => {
                 <span className="ico-circle"><i className="bi bi-check"></i></span>
               </div>
               <div className="counter-num">
-                <p data-purecounter-start="0" data-purecounter-end="450" data-purecounter-duration="1" className="counter purecounter"></p>
+                <p data-purecounter-start="0" data-purecounter-end="450" data-purecounter-duration="1" className="counter purecounter">16</p>
                 <span className="counter-text">WORKS COMPLETED</span>
               </div>
             </div>
@@ -22,7 +22,7 @@ const Section = () => {
                 <span className="ico-circle"><i className="bi bi-journal-richtext"></i></span>
               </div>
               <div className="counter-num">
-                <p data-purecounter-start="0" data-purecounter-end="25" data-purecounter-duration="1" className="counter purecounter"></p>
+                <p data-purecounter-start="0" data-purecounter-end="25" data-purecounter-duration="1" className="counter purecounter">5</p>
                 <span className="counter-text">YEARS OF EXPERIENCE</span>
               </div>
             </div>
@@ -33,7 +33,7 @@ const Section = () => {
                 <span className="ico-circle"><i className="bi bi-people"></i></span>
               </div>
               <div className="counter-num">
-                <p data-purecounter-start="0" data-purecounter-end="550" data-purecounter-duration="1" className="counter purecounter"></p>
+                <p data-purecounter-start="0" data-purecounter-end="550" data-purecounter-duration="1" className="counter purecounter">8</p>
                 <span className="counter-text">TOTAL CLIENTS</span>
               </div>
             </div>
@@ -44,7 +44,7 @@ const Section = () => {
                 <span className="ico-circle"><i className="bi bi-award"></i></span>
               </div>
               <div className="counter-num">
-                <p data-purecounter-start="0" data-purecounter-end="48" data-purecounter-duration="1" className="counter purecounter"></p>
+                <p data-purecounter-start="0" data-purecounter-end="48" data-purecounter-duration="1" className="counter purecounter">0</p>
                 <span className="counter-text">AWARD WON</span>
               </div>
             </div>

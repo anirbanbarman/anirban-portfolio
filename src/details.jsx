@@ -34,7 +34,7 @@ const Details = () => {
       
     return ( 
         <>
-         <div id="hero" className="hero route bg-image" style={{backgroundImage:"url(img/myphoto.jpg)"}}>
+         <div id="home" className="hero route bg-image" style={{backgroundImage:"url(img/myphoto.jpg)"}}>
     <div className="overlay-itro"></div>
     <div className="hero-content display-table">
       <div className="table-cell">
